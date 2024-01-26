@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @athalyearyan2003
 - 👀 I’m interested in coding, website designing, UX 
-- 🌱 I’m currently learning C,Python
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on UX and basic web development
 - 📫 How to reach me athalyearyan2003@gmail.com
 
